@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iPhone 12 Pro",
+            "desc": "Apple iPhone 12th genertion",
+            "price": 999,
+            "color": "#33505a",
+            "image": "https://gadgets.beebom.com/wp-content/uploads/2024/01/iPhone-12-Pro.png"
+        },
+        {
+            "id": 2,
+            "name": "Pixel 5",
+            "desc": "Google Pixel phone 5th genertaion",
+            "price": 699,
+            "color": "#33505a",
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1723649007/Croma%20Assets/Communication/Mobiles/Images/309139_0_twgtjr.png?tr=w-600"
+        },
+        {
+            "id": 3,
+            "name": "M1 Macbook Air",
+            "desc": "Apple Macbook air with apple silicon",
+            "price": 1099,
+            "color": "#e0bfae",
+            "image": "https://ivenus.in/wp-content/uploads/2024/01/71TPda7cwUL-347x347-1-300x300.webp"
+        },
+        {
+            "id": 4,
+            "name": "Playstation 5",
+            "desc": "Sony Playstation 5th genertion",
+            "price": 500,
+            "color": "#544ee4",
+            "image": "https://www.techsdeck.in/product-images/4.png/1266665000000646008/1100x1100"
+        },
+        {
+            "id": 5,
+            "name": "Airpods Pro",
+            "desc": "Apple Aipods Pro 1st genertion",
+            "price": 200,
+            "color": "#e3e4e9",
+            "image": "https://www.mivi.in/cdn/shop/files/Black_-_Immersio.png?v=1727780090&width=1500"
+        },
+        {
+            "id": 6,
+            "name": "iPad Pro",
+            "desc": "Apple iPad Pro 2020 edition",
+            "price": 799,
+            "color": "#f73984",
+            "image": "https://www.aptronixindia.com/media/catalog/product/i/p/ipad_pro_silver.png"
+        },
+        {
+            "id": 7,
+            "name": "Galaxy S21 ultra",
+            "desc": "Apple Aipods Pro 1st genertion",
+            "price": 1299,
+            "color": "#e3e4e9",
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708675087/Croma%20Assets/Communication/Mobiles/Images/247560_0_i07ab6.png?tr=w-600"
+        },
+        {
+            "id": 8,
+            "name": "Galaxy S21",
+            "desc": "Apple Aipods Pro 1st genertion",
+            "price": 899,
+            "color": "#e3e4e9",
+            "image": "https://media-ik.croma.com/prod/https://media.croma.com/image/upload/v1708672457/Croma%20Assets/Communication/Mobiles/Images/300443_0_ieeafj.png?tr=w-600"
+        }
+    ]
+}
